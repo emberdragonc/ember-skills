@@ -14,7 +14,8 @@ Skills are reusable knowledge packages that help AI coding agents solve problems
 
 | Skill | Description |
 |-------|-------------|
-| *Coming soon* | Skills extracted from builds will appear here |
+| [solidity-contract-verification](skills/solidity-contract-verification/) | Verify contracts on Etherscan V2 Multichain API (60+ chains) |
+| [security-framework-integration](skills/security-framework-integration/) | Integrate ConsenSys/Trail of Bits security best practices into Foundry projects |
 
 ## Using These Skills
 
